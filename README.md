@@ -1,14 +1,10 @@
-# WARNING
-
-**This repo is archived. Please check the forked one https://github.com/feederco/go-socket.io.**
-
-# go-socket.io
+# Go socket.io
 
 go-socket.io is library an implementation of [Socket.IO](http://socket.io) in Golang, which is a realtime application framework.
 
 Current this library supports 1.4 version of the Socket.IO client. It supports room, namespaces and broadcast at now.
 
-**Help wanted** This project is looking for contributors to help fix bugs and implement new features. Please check [Issue 192](https://github.com/googollee/go-socket.io/issues/192). All help is much appreciated.
+**Help wanted** This project is looking for contributors to help fix bugs and implement new features. All help is much appreciated.
 
 ## Badges
 
